@@ -1,3 +1,3 @@
-Poison poisonStamp
-JointValue[] dampings
-JointValue[] stiffnesses
+brics_actuator/Poison poison_stamp
+brics_actuator/JointValue[] dampings
+brics_actuator/JointValue[] stiffnesses

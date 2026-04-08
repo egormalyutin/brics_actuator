@@ -1,6 +1,6 @@
-time timeStamp
-Poison poisonStamp
+builtin_interfaces/Time time_stamp
+brics_actuator/Poison poison_stamp
 string base_frame_uri
 string target_frame_uri
-CartesianVector position
+brics_actuator/CartesianVector position
 geometry_msgs/Quaternion orientation
